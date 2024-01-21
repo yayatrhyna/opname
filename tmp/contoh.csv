@@ -1,0 +1,18 @@
+Kode,Nama,harga beli,harga jual,keterangan,terjual,terbeli,sisa,no,barcode,brand,avatar
+0001,Barang 1,10000,15000,Ada pada Rak A.1.5,10,31,21,1,IDWARE001,Samsung,dist/upload/index.jpg
+0002,Barang 2,10000,15000,Ada pada Rak A.1.6,11,32,21,2,IDWARE002,Samsung,dist/upload/index.jpg
+0003,Barang 3,10000,15000,Ada pada Rak A.1.7,12,33,21,3,IDWARE003,Samsung,dist/upload/index.jpg
+0004,Barang 4,10000,15000,Ada pada Rak A.1.8,13,34,21,4,IDWARE004,Samsung,dist/upload/index.jpg
+0005,Barang 5,10000,15000,Ada pada Rak A.1.9,14,35,21,5,IDWARE005,Samsung,dist/upload/index.jpg
+0006,Barang 6,10000,15000,Ada pada Rak A.1.10,15,36,21,6,IDWARE006,Samsung,dist/upload/index.jpg
+0007,Barang 7,10000,15000,Ada pada Rak A.1.11,16,37,21,7,IDWARE007,Samsung,dist/upload/index.jpg
+0008,Barang 8,10000,15000,Ada pada Rak A.1.12,17,38,21,8,IDWARE008,Samsung,dist/upload/index.jpg
+0009,Barang 9,10000,15000,Ada pada Rak A.1.13,18,39,21,9,IDWARE009,Samsung,dist/upload/index.jpg
+0010,Barang 10,10000,15000,Ada pada Rak A.1.14,19,40,21,10,IDWARE010,Samsung,dist/upload/index.jpg
+0011,Barang 11,10000,15000,Ada pada Rak A.1.15,20,41,21,11,IDWARE011,Samsung,dist/upload/index.jpg
+0012,Barang 12,10000,15000,Ada pada Rak A.1.16,21,42,21,12,IDWARE012,Samsung,dist/upload/index.jpg
+0013,Barang 13,10000,15000,Ada pada Rak A.1.17,22,43,21,13,IDWARE013,Samsung,dist/upload/index.jpg
+0014,Barang 14,10000,15000,Ada pada Rak A.1.18,23,44,21,14,IDWARE014,Samsung,dist/upload/index.jpg
+,,,,,,,sisa=terbeli-terjual,,,,
+"FILE INI HANYA SEBAGAI CONTOH, Tidak untuk di upload, GUNAKAN FILE FORMAT YANG ADA PADA MODUL IMPORT BARANG UNTUK PROSES UPLOAD",,,,,,,,,,,
+,,,,,,,,,,,

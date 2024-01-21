@@ -1,0 +1,2 @@
+[30-Jun-2020 06:52:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/strapwat/public_html/configuration/config_connect.php on line 9
+[30-Jun-2020 06:52:12 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/strapwat/public_html/configuration/config_connect.php on line 10
